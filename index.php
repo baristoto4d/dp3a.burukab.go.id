@@ -13,7 +13,7 @@
         <meta name="revisit" content="1" />
         <meta name="og:url" content="https://dp3a.burukab.go.id/" />
         <meta name="og:title" content="Slot Gopay : Layanan Slot Baru Deposit Gopay 10k Anti Potongan Admin " />
-        <meta name="google-site-verification" content="U2oWpl1d4Qiwpc05YPZqeGuOGwgb-hiR3KB6umO7Y1o" />
+        <meta name="google-site-verification" content="K6nRac72ta93ngD5AwNeTGLqOydNdMHBvVFXua2Cagk" />
         <meta name="og:type" content="product" />
         <meta name="og:description" content="Slot gopay adalah layanan situs slot gopay gacor malam ini deposit 10k gampang menang maxwin anti rungkad bersama dp3a burukab terbaru. Slot via gopay menjadi langganan para pemain situs slot online." />
         <meta name="og:image" content="https://i.pinimg.com/736x/77/47/b4/7747b4f958ccd6cb0aab1c73dcfd0b96.jpg" />
